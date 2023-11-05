@@ -1,0 +1,55 @@
+Testing Reentrancy Vulnerabilities
+
+Objective: The objective of this assignment is to focus on a specific vulnerability (reentrancy) and challenge students to write unit tests that detect and prevent it. By completing this assignment, students will gain practical experience in identifying and mitigating reentrancy vulnerabilities in smart contracts.
+
+Instructions:
+
+Introduction to the Assignment:
+
+Begin by explaining the concept of reentrancy vulnerabilities in the context of smart contract development.
+Emphasize the critical importance of detecting and preventing reentrancy vulnerabilities to secure smart contracts.
+Provided Vulnerable Smart Contract:
+
+Provide students with a vulnerable smart contract that contains a reentrancy vulnerability.
+Ensure that the contract includes a function susceptible to reentrancy attacks (e.g., a function that interacts with an external contract without proper precautions).
+Task Description:
+
+Task students with the following steps:
+Write unit tests that specifically target and exploit the reentrancy vulnerability in the provided smart contract.
+Modify the vulnerable smart contract to fix the reentrancy vulnerability.
+Write additional unit tests to verify the fix and ensure that the vulnerability is no longer exploitable.
+Writing Exploitative Tests:
+
+Instruct students to write unit tests that simulate an attacker exploiting the reentrancy vulnerability.
+These tests should demonstrate the vulnerability's impact and how an attacker can withdraw funds or manipulate the contract's state.
+Mitigation Strategy and Fix:
+
+Task students with documenting their vulnerability findings in detail, including how the reentrancy vulnerability can be exploited.
+Require them to document the mitigation strategy they applied to fix the vulnerability in the smart contract.
+Writing Verification Tests:
+
+Instruct students to write unit tests that verify the fixed smart contract's behavior.
+These tests should cover various scenarios to confirm that the reentrancy vulnerability has been effectively mitigated.
+Test Execution and Reporting:
+
+Guide students on how to execute their unit tests using the chosen testing framework (e.g., Truffle or Hardhat).
+Ask them to provide a report summarizing their test results, including any vulnerabilities found and their subsequent mitigation.
+Submission Requirements:
+
+Students should submit the following:
+Unit tests that exploit the reentrancy vulnerability.
+A modified smart contract with the reentrancy vulnerability fixed.
+Unit tests that verify the fixed smart contract's behavior.
+Detailed documentation of the reentrancy vulnerability, its exploitation, and the mitigation strategy.
+A report summarizing the test results and the effectiveness of the vulnerability fix.
+Assessment:
+
+Evaluate students' submissions based on the following criteria:
+Correctness and thoroughness of vulnerability exploitation tests.
+Effectiveness of the vulnerability fix and verification tests.
+Clear and organized documentation of the vulnerability and mitigation.
+Proper execution and reporting of test results.
+Feedback and Assistance:
+
+Provide feedback on students' vulnerability findings, fixes, and test cases.
+Offer assistance and guidance to students who encounter difficulties in addressing reentrancy vulnerabilities.

@@ -1,0 +1,38 @@
+Basic Function Definition and Interaction
+
+Objective: The objective of this assignment is to teach students how to define functions and interact with them within a Solidity contract. Students will practice defining functions that perform basic arithmetic operations or data manipulations, calling these functions within the contract, and managing state variables.
+
+Instructions:
+
+Introduction to the Assignment:
+
+Begin by explaining the purpose of the assignment, which is to introduce students to function definition and interaction in Solidity.
+Emphasize the importance of functions in smart contracts for performing various tasks.
+Contract Template:
+
+Provide students with a simple Solidity contract template that includes state variables and placeholders for functions.
+Specify the state variables and outline the functions that should be defined.
+Function Definitions:
+
+Task students with defining functions within the contract that perform basic arithmetic operations (e.g., addition, subtraction, multiplication) or data manipulations (e.g., string concatenation).
+Ensure that each function has clear input parameters and a well-defined purpose.
+Function Interaction:
+
+Instruct students to call the functions they defined within the contract itself.
+Encourage them to use the functions to manipulate state variables. For example, they can use a function to update the value of a state variable based on the result of an arithmetic operation.
+Testing and Validation:
+
+Encourage students to test their contract by deploying it on a testnet (e.g., Ropsten or Rinkeby) or using a local development blockchain.
+Ask them to demonstrate how the defined functions can be invoked and how state variables are updated as a result.
+Code Documentation:
+
+Emphasize the importance of code documentation. Require students to add comments explaining the purpose and functionality of each function.
+Submission:
+
+Request students to submit the Solidity smart contract code along with a description of the functions they defined, how these functions interact with state variables, and testing results.
+Assessment Criteria:
+
+Correct implementation of functions with clear input parameters and logic.
+Proper interaction with state variables using the defined functions.
+Successful deployment and testing of the contract.
+Clarity of code documentation.

@@ -1,0 +1,55 @@
+Automated Testing for Deployment
+
+Objective: The objective of this assignment is to teach students how to automate the testing process for smart contracts before deployment. By completing this assignment, students will gain hands-on experience in setting up automated tests using Truffle or Hardhat to ensure the correctness and reliability of smart contracts before deployment.
+
+Instructions:
+
+Introduction to the Assignment:
+
+Begin by explaining the importance of automated testing in the smart contract development lifecycle.
+Emphasize the significance of ensuring that contracts behave as expected before they are deployed to the blockchain.
+Provided Truffle or Hardhat Project:
+
+Provide students with a Truffle or Hardhat project that contains multiple smart contracts.
+Ensure that the project includes a variety of contracts with different functionalities and interactions.
+Task Description:
+
+Task students with the following steps:
+Configure automated tests for the provided smart contracts to ensure they behave as expected.
+Write tests that cover various contract interactions, edge cases, and potential vulnerabilities.
+Develop deployment scripts that will only deploy the contracts to the blockchain if all automated tests pass successfully.
+Writing Automated Tests:
+
+Instruct students to write automated tests using the chosen testing framework (Truffle or Hardhat).
+Encourage them to create tests that thoroughly validate the contracts' behavior, including positive and negative scenarios.
+Emphasize the importance of testing contract interactions, state changes, and any critical functions.
+Test Coverage and Edge Cases:
+
+Task students with paying special attention to test coverage and edge cases.
+Instruct them to identify and test scenarios that might not be immediately obvious but could impact the contract's behavior.
+Deployment Scripts:
+
+Guide students on how to write deployment scripts that automate the deployment process.
+Explain how these scripts should check the results of automated tests before initiating deployment.
+Ensure that students include clear instructions for using these deployment scripts.
+Test Execution and Deployment:
+
+Instruct students on how to execute their automated tests and deployment scripts within the Truffle or Hardhat environment.
+Ask them to provide evidence of successful test execution and deployment, including screenshots or logs.
+Submission Requirements:
+
+Students should submit the following:
+Automated test scripts for the provided smart contracts.
+Deployment scripts that incorporate test validation.
+Evidence of test execution and successful deployment.
+Assessment:
+
+Evaluate students' submissions based on the following criteria:
+Thoroughness and correctness of automated tests.
+Coverage of contract interactions and edge cases.
+Proper configuration and execution of deployment scripts.
+Successful deployment of contracts only when all tests pass.
+Feedback and Assistance:
+
+Provide feedback on students' test scripts, coverage, and deployment processes.
+Offer assistance and guidance to students who encounter challenges in configuring automated tests or deployment scripts.

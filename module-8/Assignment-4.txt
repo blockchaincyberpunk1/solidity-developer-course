@@ -1,0 +1,43 @@
+Following Ethereum News and Updates
+
+Objective: The objective of this assignment is to encourage students to actively follow Ethereum news and updates from reputable sources. By staying informed about the latest developments in the Ethereum ecosystem, students can better understand the industry landscape and make informed decisions in their blockchain development careers.
+
+Instructions:
+
+Introduction to the Assignment:
+
+Explain the importance of staying updated with Ethereum news and developments for blockchain developers.
+Emphasize that following reputable news sources and community updates is essential for making informed decisions and staying competitive in the field.
+Providing a List of Reputable Sources:
+
+Provide students with a list of reputable Ethereum news sources, blogs, and social media accounts. Include a variety of sources to choose from, such as Ethereum-focused news websites, Twitter accounts of Ethereum developers, and Ethereum-related forums.
+Source Selection:
+
+Instruct students to choose a few sources from the provided list that they find most relevant and credible.
+Encourage them to explore a mix of written content, social media updates, and community forums to get a comprehensive view of Ethereum news.
+Regular Follow-Up:
+
+Task students with regularly following the selected sources to stay informed about the latest Ethereum news and updates.
+Encourage them to set up notifications or subscriptions to ensure they receive timely updates.
+Summarization and Sharing:
+
+Instruct students to periodically summarize important Ethereum news and updates from their chosen sources.
+Ask them to share these summaries with the class through a designated platform (e.g., a class forum or discussion board).
+Impact Analysis:
+
+Require students to not only summarize the news but also analyze the potential impact of these developments on the Ethereum ecosystem.
+Encourage them to consider how these updates might affect Ethereum-based projects, smart contract development, or the broader blockchain industry.
+Submission Requirements:
+
+Students should submit their summaries and impact analyses regularly based on the frequency of the news updates they follow.
+Ensure that students include the source of the news or update in their submissions.
+Assessment:
+
+Evaluate students' submissions based on the following criteria:
+The accuracy and completeness of their summaries.
+The depth of their impact analysis and insights.
+The consistency of following their chosen news sources.
+Feedback and Discussion:
+
+After assessing the submissions, facilitate class discussions where students can share their summarized news and analyses.
+Encourage students to engage in discussions, ask questions, and provide additional context for the shared news and updates.

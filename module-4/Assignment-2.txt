@@ -1,0 +1,42 @@
+Reusable Libraries
+
+Objective: The objective of this assignment is to reinforce the concept of libraries in Solidity and teach students how to create and use reusable code libraries. Students will be provided with a scenario where specific functions or utility code can be abstracted into a library. They will then create a Solidity library that encapsulates this functionality and integrate it into a contract. The goal is to demonstrate the usage of the library in contract functions, promoting code modularity and reusability.
+
+Instructions:
+
+Introduction to the Assignment:
+
+Start by explaining the purpose of the assignment, which is to teach students about creating and utilizing reusable libraries in Solidity.
+Describe the importance of code modularity and reusability in smart contract development.
+Scenario and Library Identification:
+
+Provide students with a scenario or use case where specific functions or utility code can be abstracted into a library. For example, consider mathematical operations or common data manipulation tasks.
+Instruct students to identify the functions or code that can be encapsulated within a library to make them reusable.
+Library Creation:
+
+Task students with creating a Solidity library that encapsulates the identified functionality. Ensure that the library is well-structured and well-documented.
+Emphasize the importance of clear naming conventions and comments within the library code.
+Contract Integration:
+
+Instruct students to create a Solidity contract that utilizes the library they've created. The contract should contain functions that call and use the library functions.
+Demonstrate how to import and use the library within the contract.
+Usage Demonstration:
+
+Ask students to demonstrate the usage of the library by calling its functions within the contract. Provide examples of how the library functions can be used to perform specific tasks.
+Code Documentation:
+
+Highlight the significance of code documentation for both the library and the contract. Request students to add comments explaining the purpose of the library, its functions, and how to use them.
+Testing and Validation:
+
+Encourage students to test their library and contract by deploying them on a testnet or using a local development blockchain.
+Request them to document their testing process and provide evidence of successful library integration and usage.
+Submission:
+
+Request students to submit the Solidity smart contract code for the library and the contract that uses it.
+Ask them to provide a demonstration or explanation of how the library functions are utilized within the contract.
+Assessment Criteria:
+
+Correct implementation of a Solidity library that encapsulates reusable functionality.
+Integration of the library into a contract with clear usage examples.
+Proper code documentation for both the library and the contract.
+Successful testing and validation of the library and contract.

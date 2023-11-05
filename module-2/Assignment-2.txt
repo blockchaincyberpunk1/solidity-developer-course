@@ -1,0 +1,41 @@
+Solidity Control Structures
+
+Objective: The objective of this assignment is to enhance students' proficiency in using control structures in Solidity, including conditional statements (if-else) and loops (for, while). Students will apply these control structures to address a real-world scenario within a Solidity smart contract.
+
+Instructions:
+
+Introduction to the Assignment:
+
+Explain the purpose of the assignment, which is to strengthen students' ability to use control structures effectively in Solidity contracts.
+Highlight the significance of control structures in programming and how they can be applied in blockchain smart contracts.
+Scenario Description:
+
+Present a real-world scenario that requires the use of control structures. For example, simulate a simple voting system where users can cast votes for different candidates.
+Contract Template:
+
+Share a basic Solidity contract template with students. The template should include placeholders for variables, functions, and control structures.
+Specify the variables needed for the scenario, such as candidate names, vote counters, and voter records.
+Implementing Control Structures:
+
+Task students with implementing control structures in the contract to address the scenario. They should:
+Use conditional statements (if-else) to check conditions like whether a voter is eligible to vote or if a candidate exists.
+Use loops (for, while) to handle multiple votes or iterate through candidate lists.
+Testing and Deployment:
+
+Encourage students to thoroughly test their contract using a development environment like Remix or Truffle.
+Instruct them to deploy the contract on a testnet (e.g., Ropsten) or a local development blockchain for testing.
+Code Documentation:
+
+Emphasize the importance of code documentation. Require students to add comments explaining the purpose and functionality of control structures and variables.
+Scenario Specifics:
+
+Provide any additional details or constraints related to the scenario, such as the number of votes each voter can cast or how candidate names are stored.
+Submission:
+
+Request students to submit their Solidity smart contract code along with a brief description of how their contract addresses the given scenario and any challenges they encountered.
+Assessment Criteria:
+
+Correctness and functionality of the contract in addressing the scenario.
+Proper use of Solidity control structures (if-else, loops).
+Clarity of code documentation.
+Testing and deployment on a development blockchain.

@@ -1,0 +1,43 @@
+Event Emission and Logging
+
+Objective: The objective of this assignment is to teach students how to use events for emitting notifications and logging important actions within Solidity contracts. Students will work with a contract template that includes significant actions or state changes. They will implement events to log these actions, call functions to trigger these events, and demonstrate how to retrieve and analyze event logs.
+
+Instructions:
+
+Introduction to the Assignment:
+
+Begin by explaining the importance of event emission and logging in Solidity contracts.
+Emphasize that events are essential for notifying external applications or users about specific contract actions and for auditing contract behavior.
+Contract Setup:
+
+Provide students with a Solidity contract template that includes state variables or functions representing important actions or state changes.
+Specify the actions or state changes that should be logged using events. Ensure that the contract is well-documented.
+Event Implementation:
+
+Task students with implementing events within the contract code. Each event should correspond to a specific action or state change and emit relevant data.
+Instruct them to use the emit keyword to trigger these events whenever the corresponding actions or state changes occur.
+Function Calls and Event Triggering:
+
+Ask students to write Solidity functions that perform actions or state changes within the contract. These functions should also trigger the relevant events.
+Ensure that students properly call these functions to simulate the actions or state changes and trigger the events.
+Retrieval and Analysis of Event Logs:
+
+Provide guidance on how to retrieve and analyze event logs using tools like Web3.js or Etherscan.
+Instruct students to write scripts or code snippets that retrieve event logs and display the emitted data.
+Testing and Validation:
+
+Encourage students to test their contract by deploying it on a testnet or using a local development blockchain.
+Request them to demonstrate the functioning of the contract by triggering actions, emitting events, and retrieving event logs.
+Code Documentation:
+
+Emphasize the importance of code documentation for events. Require students to add comments explaining the purpose of each event, the data it emits, and the corresponding actions.
+Submission:
+
+Request students to submit the Solidity smart contract code, the code for triggering events, and the code for retrieving and analyzing event logs.
+Ask for a summary of their testing and validation process.
+Assessment Criteria:
+
+Correct implementation of events and event emission within the contract.
+Proper triggering of events when actions or state changes occur.
+Successful retrieval and analysis of event logs using appropriate tools.
+Clarity of code documentation and explanations.

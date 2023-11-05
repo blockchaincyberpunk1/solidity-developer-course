@@ -1,0 +1,52 @@
+Smart Contract Deployment on the Ethereum Mainnet
+
+Objective: The objective of this assignment is to prepare students for real-world deployment scenarios by guiding them through the process of deploying a smart contract on the Ethereum mainnet. By completing this assignment, students will gain practical experience in deploying smart contracts in a production environment, ensuring they are well-equipped for blockchain development projects.
+
+Instructions:
+
+Introduction to the Assignment:
+
+Begin by explaining the significance of deploying smart contracts on the Ethereum mainnet.
+Emphasize that deploying to the mainnet involves real Ether and is the final step in bringing a blockchain project to life.
+Choosing a Real-Use Smart Contract:
+
+Instruct students to choose a real-use smart contract for this assignment. Examples include:
+An ERC-20 token contract.
+A decentralized application (DApp) contract.
+A smart contract used for a specific blockchain project.
+Deployment on the Ethereum Mainnet:
+
+Guide students through the process of deploying the selected smart contract on the Ethereum mainnet.
+Ensure they understand the following aspects:
+The use of their Ethereum wallet (e.g., MetaMask) to facilitate the deployment.
+Configuration of gas fees and gas limits.
+Transaction confirmation and the significance of waiting for confirmations.
+Documentation of Deployment Process:
+
+Require students to document the entire deployment process comprehensively.
+The documentation should include:
+Transaction hashes for the contract deployment on the Ethereum mainnet.
+The contract's address on the mainnet.
+A detailed description of the contract's purpose and functionality.
+Gas costs for the deployment transaction.
+Source Code Verification:
+
+Instruct students to verify the source code of the deployed smart contract on a blockchain explorer platform like Etherscan.
+Ensure they understand the process of source code verification and its importance for transparency.
+Submission Requirements:
+
+Students should submit the following:
+Documentation of the deployment process, including transaction hashes and contract addresses.
+A brief summary of the contract's functionality and purpose.
+Gas cost breakdown and any notable observations during deployment.
+Evidence of source code verification (e.g., a link to the verified contract on Etherscan).
+Assessment:
+
+Evaluate students' submissions based on the following criteria:
+Accuracy and completeness of the deployment process documentation.
+Successful source code verification.
+Reflection on their experiences during the deployment process and insights gained.
+Feedback and Assistance:
+
+Provide feedback on the accuracy of students' deployments and source code verification.
+Offer assistance to students who encounter challenges during the deployment process or need clarification on any aspect of the assignment.

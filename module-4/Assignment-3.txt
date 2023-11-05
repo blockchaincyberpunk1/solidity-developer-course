@@ -1,0 +1,40 @@
+Function Modifiers
+
+Objective: The objective of this assignment is to teach students how to use function modifiers in Solidity to enforce specific conditions on function execution. Students will be provided with a contract containing functions that require certain conditions to be met before execution. They will define custom function modifiers to enforce these conditions and apply these modifiers to the contract's functions. The goal is to demonstrate the correct implementation and usage of function modifiers in Solidity.
+
+Instructions:
+
+Introduction to the Assignment:
+
+Begin by explaining the purpose of the assignment, which is to teach students how to use function modifiers in Solidity to enforce conditions on function execution.
+Describe the importance of function modifiers in smart contract development for access control and other conditional checks.
+Contract and Conditions:
+
+Provide students with a Solidity contract that contains functions which require specific conditions to be met before execution. For example, you can have functions that should only be executed by the contract owner, or functions that require a certain state variable to have a specific value.
+Clearly define the conditions for each function, and ensure that these conditions are well-documented in comments.
+Custom Modifier Creation:
+
+Task students with defining custom function modifiers that enforce the conditions specified for each function in the contract.
+Instruct them to write modifier functions that include the necessary conditional checks.
+Emphasize the importance of clear naming conventions and comments within the modifier code.
+Modifier Application:
+
+Ask students to apply the custom modifiers to the respective functions in the contract. Demonstrate how to use the modifier keyword in function declarations.
+Show them how to use the custom modifiers to enforce the conditions before executing the functions.
+Testing and Validation:
+
+Encourage students to test their contract by deploying it on a testnet or using a local development blockchain.
+Request them to demonstrate that the modifiers correctly enforce the conditions by showing both successful and failed function executions.
+Code Documentation:
+
+Highlight the significance of code documentation for both the custom modifiers and the contract functions. Request students to add comments explaining the purpose of the modifiers and the conditions they enforce.
+Submission:
+
+Request students to submit the Solidity smart contract code with the custom modifiers applied to the functions.
+Ask them to provide a demonstration or explanation of how the modifiers enforce the conditions during function execution.
+Assessment Criteria:
+
+Correct implementation of custom function modifiers that enforce conditions.
+Application of the modifiers to the contract's functions.
+Proper code documentation for both the custom modifiers and the contract functions.
+Successful testing and validation of the contract to demonstrate modifier functionality.

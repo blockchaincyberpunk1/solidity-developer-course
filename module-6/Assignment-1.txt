@@ -1,0 +1,40 @@
+Setting Up the Development Environment
+
+Objective: The objective of this assignment is to prepare students for DApp (Decentralized Application) development by guiding them through the process of setting up the necessary tools and environment. It is essential for developers to have a well-configured development environment to create, test, and deploy smart contracts on the Ethereum blockchain. In this assignment, students will follow a step-by-step guide to install and configure essential tools, including Solidity, Truffle, Ganache, and web3.js. They will be required to provide evidence of their setup process, including screenshots and a summary.
+
+Instructions:
+
+Introduction to the Assignment:
+
+Begin by explaining the purpose of the assignment, which is to ensure that students have a fully functional development environment for DApp development.
+Emphasize the importance of a well-configured environment for writing, testing, and deploying smart contracts.
+Development Environment Setup Guide:
+
+Provide students with a comprehensive step-by-step guide on how to set up their development environment for DApp development.
+The guide should cover the installation and configuration of the following key components:
+Solidity (Ethereum's smart contract programming language)
+Truffle (Development framework for Ethereum)
+Ganache (Local Ethereum blockchain for testing)
+web3.js (JavaScript library for Ethereum interactions)
+Ensure that the guide is clear and beginner-friendly, with detailed instructions and explanations.
+Task Description:
+
+Task students with the following objectives:
+Follow the provided setup guide meticulously.
+Install and configure all the required tools.
+Verify that their development environment is correctly set up and fully functional.
+Setup Verification:
+
+Instruct students to provide evidence of their setup by submitting the following:
+Screenshots or images of their configured development environment.
+A short summary or description of their setup process, highlighting any challenges or noteworthy points.
+Assessment:
+
+Evaluate students' submissions based on the following criteria:
+Completeness and correctness of the setup (all required tools installed and configured).
+Accuracy of the configuration (tools functioning as expected).
+Clarity and comprehensiveness of the provided evidence (screenshots and summary).
+Feedback and Assistance:
+
+Provide feedback on students' setup submissions, highlighting any areas that may need improvement.
+Offer assistance and guidance to students who encounter difficulties during the setup process.

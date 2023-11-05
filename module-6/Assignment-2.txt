@@ -1,0 +1,47 @@
+Smart Contract Development
+
+Objective: The objective of this assignment is to teach students how to create and deploy a smart contract using Solidity. By completing this assignment, students will gain hands-on experience in designing, implementing, testing, and deploying a basic smart contract. They will also learn how to write unit tests to ensure the contract's functionality and integrity.
+
+Instructions:
+
+Introduction to the Assignment:
+
+Begin by explaining the purpose of the assignment, which is to enable students to apply their Solidity knowledge to develop a functioning smart contract.
+Emphasize the importance of smart contracts in blockchain development and their real-world applications.
+Smart Contract Specification:
+
+Provide students with a simple smart contract specification. For example, you can specify a basic token contract or a voting contract.
+Include clear and detailed requirements for the smart contract, such as its functions, state variables, and expected behavior.
+Smart Contract Implementation:
+
+Task students with the following objectives:
+Implement the specified smart contract using Solidity.
+Ensure that the contract adheres to the provided requirements.
+Write clean, well-structured, and documented code.
+Encourage students to use best practices and security considerations in their implementations.
+Unit Testing:
+
+Instruct students to write comprehensive unit tests for their smart contract using the Truffle framework.
+Emphasize the importance of testing to ensure that the contract functions as intended and to identify and fix potential issues.
+Local Blockchain Deployment:
+
+Guide students through deploying their smart contract to a local Ganache blockchain for testing.
+Instruct them on how to interact with the contract using Truffle console or other appropriate tools.
+Submission Requirements:
+
+Ask students to submit the following:
+The complete Solidity code of their smart contract.
+A set of unit tests for the contract.
+Documentation or comments explaining the purpose and functionality of the contract and its functions.
+Screenshots or evidence of the contract being successfully deployed and tested on a local Ganache blockchain.
+Assessment:
+
+Evaluate students' submissions based on the following criteria:
+Correctness and functionality of the smart contract (adherence to specifications).
+Quality and coverage of unit tests (thoroughly tested contract functions).
+Code quality, including readability and documentation.
+Successful deployment and interaction with the contract on a local Ganache blockchain.
+Feedback and Assistance:
+
+Provide feedback on students' submissions, highlighting any areas that may need improvement.
+Offer assistance and guidance to students who encounter difficulties during development or testing.

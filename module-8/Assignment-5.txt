@@ -1,0 +1,50 @@
+Researching Ethereum Improvement Proposals (EIPs)
+
+Objective: The objective of this assignment is to engage students in exploring Ethereum Improvement Proposals (EIPs) and understanding their significance in the Ethereum ecosystem. By researching and presenting an EIP, students will gain insights into the evolution of Ethereum and its potential impact on smart contract development.
+
+Instructions:
+
+Introduction to the Assignment:
+
+Explain the importance of Ethereum Improvement Proposals (EIPs) in shaping the Ethereum blockchain and its related technologies.
+Emphasize that EIPs are crucial for keeping Ethereum updated, secure, and competitive in the blockchain industry.
+Providing a List of EIPs:
+
+Provide students with a list of recent or proposed Ethereum Improvement Proposals (EIPs). Include a diverse range of EIPs related to Ethereum or smart contract development.
+EIP Selection:
+
+Instruct students to choose one EIP from the provided list that they find interesting or relevant to their blockchain development interests.
+Encourage them to explore a variety of EIPs, including protocol upgrades, core improvements, and standards proposals.
+Thorough Research:
+
+Task students with conducting in-depth research on the selected EIP, including:
+Understanding the purpose and goals of the EIP.
+Examining the technical details and scope of the proposal.
+Identifying potential benefits and drawbacks of its implementation.
+Investigating the current status and discussions surrounding the EIP.
+Presentation Preparation:
+
+Instruct students to prepare a presentation summarizing their findings on the chosen EIP.
+Encourage them to include visuals, diagrams, or code snippets to enhance their presentation.
+Class Presentation:
+
+Allocate time for each student to present their research and findings to the class.
+Encourage students to engage in discussions and questions after each presentation.
+Discussion on Impact:
+
+After each presentation, facilitate a class discussion on the potential impact of the EIP on Ethereum and its ecosystem.
+Encourage students to share their insights on the EIP's feasibility, adoption challenges, and implications for smart contract development.
+Submission Requirements:
+
+Students should submit their presentation materials, including slides and any additional resources used in their research.
+Ensure that students include the EIP number and title in their submissions.
+Assessment:
+
+Evaluate students based on the following criteria:
+The depth and accuracy of their research on the chosen EIP.
+The clarity and effectiveness of their presentations.
+Active participation in class discussions and insightful contributions.
+Feedback and Reflection:
+
+Provide feedback to each student based on their presentation and research.
+Encourage students to reflect on the broader implications of EIPs in the blockchain industry and how these proposals influence Ethereum's development.

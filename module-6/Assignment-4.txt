@@ -1,0 +1,51 @@
+Full-Stack DApp Development
+
+Objective: The objective of this assignment is to challenge students to build a complete decentralized application (DApp) that includes both the smart contract and front-end components. By completing this assignment, students will gain hands-on experience in developing a functional DApp from scratch, covering smart contract development, user interface design, and blockchain interaction.
+
+Instructions:
+
+Introduction to the Assignment:
+
+Begin by explaining the purpose of the assignment, which is to create a full-stack DApp with both smart contract and front-end components.
+Emphasize the importance of integrating smart contracts with user-friendly interfaces to create user-centric DApps.
+DApp Concept and Smart Contract:
+
+Provide students with a DApp concept or use case (e.g., a decentralized voting platform) that they will implement.
+Task students with designing, developing, and deploying the smart contract for the DApp.
+Ensure that the contract's functions and data structures align with the DApp's requirements.
+Front-End Development:
+
+Instruct students to create a user-friendly front-end interface for interacting with the DApp.
+Task them with implementing forms, buttons, and other UI components to allow users to interact with the smart contract.
+Guide them on using web3.js to connect the front end to the Ethereum blockchain and handle contract interactions.
+Integration and Testing:
+
+Emphasize the importance of proper integration between the smart contract and front-end components.
+Instruct students to thoroughly test the DApp on a testnet (e.g., Ropsten) to ensure its functionality.
+Encourage them to test various scenarios, including transaction failures and edge cases.
+Deployment:
+
+Require students to deploy the DApp (both the smart contract and front-end) to a testnet.
+Ensure they provide clear instructions on how to access and use the deployed DApp.
+Documentation and Presentation:
+
+Ask students to document their development process, including any design decisions, challenges faced, and how they overcame them.
+Encourage them to create a presentation or video demonstration showcasing their DApp's functionality and features.
+Submission Requirements:
+
+Ask students to submit the following:
+The complete source code of the smart contract.
+The front-end code (HTML/CSS/JavaScript) for their DApp's user interface.
+Documentation of the DApp's functionality, including how to use it.
+A video demonstration or presentation explaining their DApp and its features.
+Assessment:
+
+Evaluate students' submissions based on the following criteria:
+Functionality and correctness of the smart contract.
+Usability and user-friendliness of the front-end interface.
+Successful integration between the contract and front-end.
+Proper documentation and presentation of the DApp.
+Feedback and Assistance:
+
+Provide feedback on students' submissions, highlighting areas of excellence and areas for improvement.
+Offer assistance and guidance to students who encounter difficulties during development or deployment.

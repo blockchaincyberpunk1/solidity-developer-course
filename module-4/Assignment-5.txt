@@ -1,0 +1,43 @@
+Role-Based Access Control (RBAC) in Solidity
+
+Objective: The objective of this assignment is to extend students' understanding of function modifiers and use them to implement role-based access control (RBAC) in a Solidity contract. Students will be provided with a contract that needs to manage different roles and permissions. They will design custom function modifiers that enforce RBAC rules and create functions that assign and revoke roles based on these modifiers. The goal is to demonstrate the ability to implement RBAC in smart contracts effectively.
+
+Instructions:
+
+Introduction to the Assignment:
+
+Begin by explaining the purpose of the assignment, which is to implement role-based access control (RBAC) in a Solidity contract using custom function modifiers.
+Emphasize the importance of RBAC in managing different roles and permissions within a contract.
+Contract and Role Definitions:
+
+Provide students with a Solidity contract that requires role-based access control. Define different roles within the contract, such as "Admin," "Manager," and "User," each with specific permissions and functions they can access.
+Clearly document the roles and their associated permissions within the contract code and provide comments for clarity.
+Custom RBAC Function Modifiers:
+
+Task students with designing custom function modifiers that enforce RBAC rules for different functions in the contract.
+Instruct them to create modifiers that check whether the sender of the transaction has the required role to execute a particular function.
+Ensure that the modifiers effectively enforce role-based access control and provide clear comments explaining their logic.
+Role Assignment and Revocation Functions:
+
+Ask students to create functions within the contract that allow the assignment and revocation of roles.
+Provide guidelines on how roles can be assigned or revoked, including the conditions that must be met for each action.
+Ensure that the functions are adequately documented, including their purpose and the RBAC modifiers they use.
+Role-Based Access Control Testing:
+
+Encourage students to thoroughly test the contract by deploying it on a testnet or using a local development blockchain.
+Request them to demonstrate RBAC in action by showing how different roles can access or be denied access to various functions.
+Test scenarios should include both successful and denied transactions based on RBAC rules.
+Code Documentation:
+
+Highlight the importance of clear and detailed code documentation, especially for the custom RBAC modifiers and role assignment/revocation functions.
+Request students to provide comprehensive comments explaining the purpose and logic of these components.
+Submission:
+
+Request students to submit the Solidity smart contract code with the custom RBAC modifiers and role management functions.
+Ask them to provide a detailed demonstration or explanation of role-based access control in action, including successful and denied transactions.
+Assessment Criteria:
+
+Correct implementation of custom RBAC function modifiers that enforce role-based access control.
+Implementation of role assignment and revocation functions based on RBAC rules.
+Comprehensive code documentation for both the RBAC components and the contract functions.
+Successful testing and validation of RBAC functionality, demonstrating role-based access control in various scenarios.

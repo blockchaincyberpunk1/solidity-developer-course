@@ -1,0 +1,51 @@
+Deploying Smart Contracts on Testnets
+
+Objective: The objective of this assignment is to guide students through the process of deploying smart contracts on Ethereum testnets. By completing this assignment, students will gain practical experience in deploying and interacting with smart contracts on test networks, which is crucial for testing and verifying contract functionality before deploying to the Ethereum mainnet.
+
+Instructions:
+
+Introduction to the Assignment:
+
+Begin by explaining the importance of deploying contracts on testnets before deploying to the Ethereum mainnet.
+Emphasize that testnets provide a safe environment for testing and verifying contract behavior without using real Ether.
+Choosing an Ethereum Testnet:
+
+Instruct students to choose one of the Ethereum testnets, such as Ropsten, Rinkeby, or Kovan, for this assignment.
+Explain the differences between these testnets, including their consensus mechanisms and availability.
+Selecting a Smart Contract:
+
+Allow students to choose a smart contract of their choice to deploy on the selected testnet.
+Encourage them to consider a contract that aligns with their interests or previous coursework.
+Deployment Using Truffle or Hardhat:
+
+Guide students on how to use either Truffle or Hardhat (based on your course setup) to deploy the selected smart contract to the chosen testnet.
+Ensure they understand the deployment process, including configuring deployment settings and migrations.
+Interaction with Deployed Contract:
+
+Instruct students to interact with the deployed smart contract.
+They should create a user interface (DApp) or use a command-line interface to perform interactions such as calling functions or sending transactions to the contract.
+Documentation of Deployment Process:
+
+Require students to document the deployment process thoroughly.
+The documentation should include:
+Transaction hashes for contract deployment transactions.
+Contract addresses on the chosen testnet.
+A brief description of the contract's purpose and functionality.
+Any interactions they performed with the contract, including input data and results.
+Submission Requirements:
+
+Students should submit the following:
+Documentation of the deployment process, including transaction hashes and contract addresses.
+Any code or scripts used for deployment and interaction.
+A brief summary of their experiences, challenges encountered, and lessons learned during the deployment process.
+Assessment:
+
+Evaluate students' submissions based on the following criteria:
+Accuracy of the deployment process, including correct contract addresses.
+Successful interaction with the deployed contract.
+Completeness and clarity of the documentation.
+Reflection on experiences and challenges faced during the assignment.
+Feedback and Assistance:
+
+Provide feedback on the accuracy of students' deployments and interactions.
+Offer assistance to students who encounter challenges during the deployment process or need clarification on any aspect of the assignment.

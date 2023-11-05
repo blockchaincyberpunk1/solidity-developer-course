@@ -1,0 +1,54 @@
+Event-Based Notification System
+
+Objective: The objective of this assignment is to challenge students to create a notification system within a Solidity contract using events. Students will be provided with a contract template for a notification system with user subscriptions and event-based notifications. They will write functions for users to subscribe to specific notifications and emit events accordingly. Students will also implement a function to retrieve notifications for subscribed users and demonstrate the functionality of the notification system.
+
+Instructions:
+
+Introduction to the Assignment:
+
+Begin by explaining the purpose of the assignment, which is to create an event-based notification system within a Solidity contract.
+Describe the key components of the notification system, including user subscriptions and event-based notifications.
+Contract Scenario:
+
+Provide students with a scenario for the notification system. For example, you can simulate a social media platform where users can subscribe to notifications for posts, comments, or likes.
+Specify the types of notifications (events) that can occur within the system and how users can subscribe to them.
+Contract Setup:
+
+Provide students with a Solidity contract template for the notification system. The template should include state variables for managing subscriptions and emitting events.
+Ensure that the contract is well-documented, including clear explanations of its purpose and the available notifications.
+Event Implementation:
+
+Task students with implementing events within the contract code. Each event should correspond to a specific type of notification.
+Instruct them to use the emit keyword to trigger these events whenever the corresponding notifications occur.
+User Subscriptions:
+
+Ask students to write functions that allow users to subscribe to specific notifications. Users should be able to specify the types of notifications they want to receive.
+Ensure that the contract keeps track of user subscriptions using appropriate data structures.
+Notification Emission:
+
+Instruct students to write functions that emit events when the specified notifications occur. For example, if a user creates a post, an event should be emitted to notify subscribers.
+Make sure that the events include relevant data, such as the user who triggered the event or the content associated with the notification.
+Notification Retrieval:
+
+Task students with implementing a function that allows subscribed users to retrieve their notifications. Users should be able to query the contract for notifications they are subscribed to.
+Ensure that the retrieved notifications are presented in a user-friendly format.
+Demonstration:
+
+Encourage students to demonstrate the functionality of their notification system by simulating user interactions. They should show how users can subscribe, trigger events, and retrieve notifications.
+Request them to provide clear examples or scenarios demonstrating the notification system in action.
+Code Documentation:
+
+Emphasize the importance of code documentation for events, functions, and data structures used in the contract. Require students to add comments explaining the purpose of each component.
+Testing and Validation:
+
+Encourage students to test their contract by deploying it on a testnet or using a local development blockchain.
+Request them to document their testing process and provide evidence of successful subscription, event emission, and notification retrieval.
+Submission:
+
+Request students to submit the Solidity smart contract code, along with a summary of the testing and validation process.
+Assessment Criteria:
+
+Correct implementation of events for different notification types.
+Proper handling of user subscriptions and notification emission.
+Implementation of a function for retrieving notifications for subscribed users.
+Clear demonstration of the notification system's functionality.

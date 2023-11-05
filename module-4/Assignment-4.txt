@@ -1,0 +1,40 @@
+Complex Function Modifiers
+
+Objective: The objective of this assignment is to challenge students to create complex function modifiers in Solidity that involve multiple conditions and intricate logic. Students will be presented with a contract containing functions that require intricate conditions to be satisfied before execution. They will design custom function modifiers that consider multiple conditions and edge cases and apply these complex modifiers to the contract's functions. The goal is to demonstrate the ability to create and implement sophisticated modifiers in Solidity.
+
+Instructions:
+
+Introduction to the Assignment:
+
+Begin by explaining the purpose of the assignment, which is to challenge students to create complex function modifiers in Solidity.
+Emphasize that complex modifiers are essential for enforcing intricate conditions and logic in smart contracts.
+Contract and Complex Conditions:
+
+Provide students with a Solidity contract that contains functions with complex conditions that need to be satisfied before execution. These conditions should involve multiple variables, logical operators, and edge cases.
+Clearly define the complex conditions for each function, and ensure that these conditions are well-documented in comments.
+Custom Complex Modifier Creation:
+
+Task students with designing custom function modifiers that enforce the complex conditions specified for each function in the contract.
+Instruct them to write modifier functions that incorporate multiple conditions, logical operators (e.g., &&, ||), and potentially nested logic.
+Emphasize the importance of clarity and readability in the modifier code.
+Modifier Application:
+
+Ask students to apply the custom complex modifiers to the respective functions in the contract. Demonstrate how to use the modifier keyword in function declarations with these complex modifiers.
+Show them how to use the complex modifiers to enforce the intricate conditions before executing the functions.
+Testing and Validation:
+
+Encourage students to thoroughly test their contract by deploying it on a testnet or using a local development blockchain.
+Request them to demonstrate that the complex modifiers correctly enforce the intricate conditions by showing both successful and failed function executions in various scenarios.
+Code Documentation:
+
+Highlight the significance of clear and detailed code documentation for both the complex modifiers and the contract functions. Request students to provide comprehensive comments explaining the purpose and logic of the modifiers.
+Submission:
+
+Request students to submit the Solidity smart contract code with the custom complex modifiers applied to the functions.
+Ask them to provide a detailed demonstration or explanation of how the complex modifiers enforce intricate conditions during function execution.
+Assessment Criteria:
+
+Correct implementation of custom complex function modifiers that enforce intricate conditions.
+Application of the complex modifiers to the contract's functions.
+Comprehensive code documentation for both the complex modifiers and the contract functions.
+Successful testing and validation of the contract to demonstrate complex modifier functionality in various scenarios.

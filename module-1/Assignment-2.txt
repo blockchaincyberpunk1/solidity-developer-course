@@ -1,0 +1,36 @@
+Ethereum Basics Quiz
+
+Objective: The objective of this assignment is to assess and reinforce students' understanding of fundamental Ethereum concepts, including its architecture, virtual machine, cryptocurrency (Ether), and transaction processing.
+
+Instructions:
+
+Introduction to the Assignment:
+
+Explain the purpose of the assignment, which is to evaluate students' knowledge of Ethereum's foundational concepts.
+Emphasize the importance of a strong understanding of these basics in Ethereum development.
+Ethereum Basics Quiz:
+
+Prepare a set of questions that cover the following Ethereum topics:
+Ethereum Virtual Machine (EVM) and its role in executing smart contracts.
+Ether (ETH) as the native cryptocurrency of Ethereum.
+Gas and its significance in Ethereum transactions.
+Ethereum's consensus mechanism (e.g., Proof of Stake or Proof of Work).
+Basic Ethereum accounts (e.g., external accounts and contract accounts).
+Question Types:
+
+Create a combination of multiple-choice questions and short-answer questions. Multiple-choice questions can assess general knowledge, while short-answer questions can test more in-depth understanding.
+Quiz Duration and Submission:
+
+Specify the time duration for completing the quiz (e.g., 30 minutes).
+Set up a submission method (e.g., through an online quiz platform or by submitting answers in a document).
+Evaluation and Feedback:
+
+Collect and review students' responses to the quiz.
+Provide feedback on both correct and incorrect answers.
+For incorrect answers, include explanations to help students understand the correct concepts.
+Encourage students to review their quiz results and seek clarification on any misunderstood topics.
+Assessment Criteria:
+
+Accuracy: Assess the accuracy of students' responses.
+Understanding: Evaluate their comprehension of fundamental Ethereum concepts.
+Clarity of Explanation (for short-answer questions): Ensure that students can express their knowledge clearly and concisely.

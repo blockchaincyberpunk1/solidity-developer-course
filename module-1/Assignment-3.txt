@@ -1,0 +1,41 @@
+Ethereum Account Creation and Test Transactions
+
+Objective: The objective of this assignment is to introduce students to Ethereum accounts, transactions, and the practical aspects of interacting with the Ethereum blockchain using personal wallets.
+
+Instructions:
+
+Introduction to the Assignment:
+
+Explain the purpose of the assignment, which is to familiarize students with Ethereum accounts, transactions, and the process of sending test Ether (testnet ETH) between accounts.
+Ethereum Account Setup:
+
+Instruct students to set up a personal Ethereum wallet using a tool like MetaMask or MyEtherWallet. Provide guidance on creating a secure wallet, storing private keys, and setting up wallet extensions (if necessary).
+Test Ether Distribution:
+
+Allocate a small amount of test Ether (testnet ETH) to each student's wallet. This test Ether should be provided on a testnet (e.g., Ropsten, Rinkeby) to avoid real Ether usage.
+Test Transaction Task:
+
+Task each student with sending a test transaction from their wallet to another student's wallet on the same testnet. They should initiate the transaction using the provided test Ether.
+Specify the details of the transaction, such as the amount to send and the recipient's address.
+Transaction Confirmation and Details:
+
+Instruct students to confirm their transactions on the blockchain explorer of the chosen testnet (e.g., Etherscan for Ropsten). They should explore the transaction details, including block confirmations, gas fees, and status.
+Evaluation:
+
+Assess students' ability to:
+Create Ethereum accounts using wallet tools.
+Send test transactions accurately.
+Understand the transaction details on the blockchain explorer.
+Evaluate their knowledge of transaction concepts, such as gas and confirmations.
+Submission:
+
+Ask students to provide proof of their completed transactions, such as transaction IDs or screenshots of the transaction details from the blockchain explorer.
+Discussion and Reflection:
+
+Organize a class discussion or reflection session where students can share their experiences and any challenges they encountered during the process.
+Encourage students to discuss the importance of wallet security and the differences between testnet and mainnet transactions.
+Assessment Criteria:
+
+Accurate completion of the test transaction.
+Understanding of transaction details, such as gas fees and confirmations.
+Ability to create and secure Ethereum accounts using wallet tools.

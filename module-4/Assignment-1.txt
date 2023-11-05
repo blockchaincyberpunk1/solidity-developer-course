@@ -1,0 +1,40 @@
+Contract Inheritance
+
+Objective: The objective of this assignment is to teach students how to use contract inheritance in Solidity to create reusable and modular code structures. Students will be provided with a base contract containing common functionality or state variables. They will then create child contracts that inherit from the base contract and add additional functionality or state variables to the child contracts. The goal is to demonstrate how child contracts inherit and extend the base contract, promoting code reusability.
+
+Instructions:
+
+Introduction to the Assignment:
+
+Begin by explaining the purpose of the assignment, which is to teach students about contract inheritance in Solidity.
+Describe the importance of code reusability and modularity in smart contract development.
+Base Contract Creation:
+
+Provide students with a Solidity contract template that serves as the base contract. This base contract should contain common functionality or state variables that can be shared across multiple child contracts.
+Ensure that the base contract is well-documented, including clear explanations of its purpose and the functions or state variables it contains.
+Child Contract Creation:
+
+Task students with creating one or more child contracts that inherit from the base contract. Each child contract should represent a specific use case or functionality that extends the base contract.
+Instruct them to add additional functions, state variables, or modifiers to the child contracts to demonstrate how they can extend the functionality of the base contract.
+Demonstration of Inheritance:
+
+Ask students to demonstrate the inheritance relationship by showcasing how the child contracts inherit the functions and state variables from the base contract.
+Ensure that they provide examples of how the added functionality in the child contracts interacts with the inherited functionality from the base contract.
+Code Documentation:
+
+Emphasize the importance of code documentation for both the base contract and child contracts. Require students to add comments explaining the purpose of each contract, function, and state variable.
+Testing and Validation:
+
+Encourage students to test their contracts by deploying them on a testnet or using a local development blockchain.
+Request them to document their testing process and provide evidence of successful interaction with the base and child contracts.
+Submission:
+
+Request students to submit the Solidity smart contract code for the base contract and child contracts.
+Ask them to provide a demonstration or explanation of how the child contracts inherit and extend the functionality of the base contract.
+Assessment Criteria:
+
+Correct implementation of a base contract with common functionality or state variables.
+Creation of child contracts that inherit from the base contract.
+Addition of functionality or state variables in the child contracts to demonstrate extension.
+Clear demonstration of the inheritance relationship between the base and child contracts.
+Proper code documentation and testing of the contracts.

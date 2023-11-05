@@ -1,0 +1,42 @@
+Integer Overflow and Underflow Vulnerability Mitigation
+
+Objective: The objective of this assignment is to educate students about the risks associated with integer overflow and underflow vulnerabilities in smart contracts and guide them in implementing measures to prevent such vulnerabilities. Students will be presented with a Solidity smart contract that contains vulnerable integer calculations. Their task is to identify and address the integer overflow and underflow issues, providing a corrected version of the contract. Students will be required to explain their fixes and demonstrate that the vulnerabilities have been successfully mitigated, reinforcing their understanding of these critical security concerns.
+
+Instructions:
+
+Introduction to the Assignment:
+
+Begin by explaining the purpose of the assignment, which is to understand the risks of integer overflow and underflow vulnerabilities in smart contracts and learn how to prevent them.
+Emphasize the importance of ensuring that integer calculations are secure and do not result in vulnerabilities.
+Vulnerable Smart Contract:
+
+Provide students with a Solidity smart contract that contains integer overflow and underflow vulnerabilities.
+Clearly document the vulnerable portions of the contract code and describe how these vulnerabilities can be exploited.
+Task Description:
+
+Task students with the following objectives:
+Identify the integer overflow and underflow vulnerabilities within the provided contract.
+Implement fixes to prevent integer overflow and underflow issues.
+Ensure that the corrected contract safely handles integer calculations.
+Code Mitigation and Explanation:
+
+Ask students to provide the corrected Solidity smart contract code, including the modifications made to prevent integer overflow and underflow vulnerabilities.
+Instruct them to provide comments or an explanation of how they fixed the vulnerabilities, highlighting the security measures taken.
+Demonstration and Testing:
+
+Encourage students to demonstrate the corrected contract's behavior by deploying it on a testnet or using a local development blockchain.
+Request them to conduct testing to show that the contract no longer suffers from integer overflow and underflow vulnerabilities.
+Students should document their testing process and provide evidence of secure contract execution.
+Code Documentation:
+
+Highlight the importance of clear and detailed code documentation, especially in explaining how the integer vulnerabilities were addressed.
+Ask students to provide comprehensive comments and explanations within their code.
+Submission:
+
+Request students to submit the corrected Solidity smart contract code along with their explanations and testing results.
+Assessment Criteria:
+
+Correct identification and mitigation of integer overflow and underflow vulnerabilities within the provided contract.
+Accurate and secure code modifications to prevent integer vulnerabilities.
+Clear documentation and explanations of the vulnerability resolution.
+Successful testing and validation of the corrected contract, demonstrating its security.

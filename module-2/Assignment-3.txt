@@ -1,0 +1,41 @@
+Solidity Function Modifiers
+
+Objective: The objective of this assignment is to introduce students to Solidity function modifiers and their role in enhancing contract security. Students will learn how to implement custom modifiers to control access to specific functions within a Solidity smart contract.
+
+Instructions:
+
+Introduction to the Assignment:
+
+Begin by explaining the purpose of the assignment, which is to familiarize students with Solidity function modifiers.
+Highlight the importance of function modifiers in controlling access to contract functions and improving security.
+Contract Scenario:
+
+Present a scenario that requires access control within a smart contract. For example, you can simulate a basic token transfer system where some functions should only be accessible to certain users.
+Contract Template:
+
+Provide students with a Solidity contract template that includes placeholders for variables, functions, and modifiers.
+Specify the functions that require access control, such as transferring tokens or changing contract settings.
+Implementing Custom Modifiers:
+
+Instruct students to implement custom modifiers within the contract to control access to specific functions. They should:
+Define custom modifiers with meaningful names and specific access conditions.
+Apply these modifiers to the relevant functions, ensuring that only authorized users can execute them.
+Testing and Deployment:
+
+Encourage students to thoroughly test their contract, including the functionality of the custom modifiers.
+Instruct them to deploy the contract on a testnet (e.g., Ropsten) or a local development blockchain for testing.
+Code Documentation:
+
+Emphasize the importance of code documentation. Require students to add comments explaining the purpose and functionality of custom modifiers.
+Scenario Specifics:
+
+Provide any additional details or constraints related to the scenario, such as the roles or conditions required to access specific functions.
+Submission:
+
+Request students to submit their Solidity smart contract code along with a description of how their contract implements custom modifiers and how these modifiers enhance access control.
+Assessment Criteria:
+
+Correct implementation of custom modifiers.
+Effective use of modifiers to control access to functions.
+Clarity of code documentation.
+Testing and deployment on a development blockchain.

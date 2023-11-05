@@ -1,0 +1,38 @@
+Solidity Constructor Functions
+
+Objective: The objective of this assignment is to teach students how to use constructor functions in Solidity to initialize contract state variables during contract deployment.
+
+Instructions:
+
+Introduction to the Assignment:
+
+Begin by explaining the purpose of the assignment, which is to familiarize students with Solidity constructor functions.
+Emphasize the importance of constructors in initializing contract state variables when a contract is deployed.
+Contract Template:
+
+Provide students with a Solidity contract template that includes state variables without initial values.
+Specify the state variables that need to be initialized in the constructor.
+Writing the Constructor Function:
+
+Instruct students to write a constructor function within the contract template. The constructor should:
+Accept input parameters, if necessary, to set the initial values of state variables.
+Initialize the state variables with appropriate values based on the constructor's logic.
+Deployment and Testing:
+
+Encourage students to deploy the contract on a testnet (e.g., Ropsten) or a local development blockchain.
+Ask them to verify that the state variables are correctly initialized by interacting with the deployed contract.
+Code Documentation:
+
+Emphasize the importance of code documentation. Require students to add comments explaining the purpose and functionality of the constructor function.
+Scenario Specifics:
+
+Provide any additional details or constraints related to the scenario that require specific initialization logic in the constructor.
+Submission:
+
+Request students to submit their Solidity smart contract code along with a description of how their constructor function initializes state variables and any testing results.
+Assessment Criteria:
+
+Correct implementation of the constructor function.
+Proper initialization of state variables.
+Clarity of code documentation.
+Successful deployment and testing of the contract.

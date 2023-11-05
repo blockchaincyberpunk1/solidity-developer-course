@@ -1,0 +1,51 @@
+Security Best Practices Implementation
+
+Objective: The objective of this assignment is to reinforce security best practices in smart contract development. Students will be provided with a set of insecure smart contracts containing various issues. Their task is to refactor these contracts to adhere to security best practices, focusing on enhancing the contracts' security and robustness. Students will need to document the security improvements made, provide justifications for each change based on best practices, and demonstrate their commitment to secure coding.
+
+Instructions:
+
+Introduction to the Assignment:
+
+Begin by explaining the purpose of the assignment, which is to reinforce security best practices in smart contract development.
+Emphasize the importance of adhering to these best practices to ensure the security and reliability of smart contracts.
+Insecure Smart Contracts:
+
+Provide students with a set of Solidity smart contracts that contain various security issues. Clearly document the insecure portions of the contract code and describe the potential risks associated with these issues.
+Task Description:
+
+Task students with the following objectives:
+Identify and understand the security vulnerabilities present in the provided smart contracts.
+Refactor the contracts to adhere to security best practices, implementing changes that enhance security.
+Document the security improvements made to the contracts.
+Security Best Practices:
+
+Provide students with a list of key security best practices in smart contract development. These may include, but are not limited to, practices related to:
+Input validation and sanitization.
+Proper use of modifiers and access control.
+Avoiding common vulnerabilities like reentrancy, integer overflow, and unhandled exceptions.
+Safe handling of Ether and token transfers.
+Use of secure libraries and dependencies.
+Code Refactoring:
+
+Instruct students to refactor the provided insecure smart contracts based on the security best practices provided.
+Require them to clearly document each change they make to address the vulnerabilities.
+Encourage them to comment their code thoroughly to explain the security improvements.
+Justification for Changes:
+
+Ask students to provide a justification for each change they make to the contract code. They should explain why the change is necessary and how it enhances security according to the best practices.
+Testing and Validation:
+
+Request students to thoroughly test the refactored contracts to ensure they are free from the identified vulnerabilities.
+Encourage them to provide evidence of testing and validation, such as test cases and results.
+Documentation:
+
+Highlight the importance of clear and comprehensive documentation. Students should document the security improvements, their rationale, and any testing conducted.
+Submission:
+
+Request students to submit the refactored Solidity smart contract code along with their documentation, justifications, and testing results.
+Assessment Criteria:
+
+Correct identification and understanding of security vulnerabilities in the provided contracts.
+Effective refactoring of the contracts to adhere to security best practices.
+Clear documentation of security improvements and justifications for each change.
+Successful testing and validation of the refactored contracts, demonstrating their security.

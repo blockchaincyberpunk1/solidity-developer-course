@@ -1,0 +1,38 @@
+Advanced Function Interaction
+
+Objective: The objective of this assignment is to extend students' knowledge of function interactions in Solidity by introducing more complex contract interactions. Students will work with two or more Solidity contracts, each having unique functions, and create scenarios where these contracts need to interact with each other. They will write code to demonstrate contract interactions, data exchange, and function calls.
+
+Instructions:
+
+Introduction to the Assignment:
+
+Begin by explaining the purpose of the assignment, which is to explore advanced contract interactions in Solidity.
+Emphasize the significance of contract-to-contract communication in complex decentralized applications.
+Contract Setup:
+
+Provide students with two or more Solidity contracts, each with its unique functions. Specify the functions and their purposes clearly in each contract.
+Ensure that the contracts are well-documented, including descriptions of functions and their expected behavior.
+Scenario Creation:
+
+Task students with creating a scenario or use case where these contracts need to interact with each other.
+Encourage creativity in designing the scenario, such as simulating interactions between a token contract and a voting contract, or a payment contract and a subscription contract.
+Function Interaction:
+
+Instruct students to write Solidity code that demonstrates contract interactions. One contract should call functions from another contract, passing data or triggering actions.
+Ensure that students properly handle function calls, input parameters, and data exchange between contracts.
+Testing and Validation:
+
+Encourage students to thoroughly test their contracts by deploying them on a testnet or using a local development blockchain.
+Ask them to provide a step-by-step demonstration of how the contracts interact based on the scenario they created.
+Code Documentation:
+
+Emphasize the importance of code documentation, especially in scenarios involving multiple contracts. Require students to add comments explaining the purpose of each function and its role in the interaction.
+Submission:
+
+Request students to submit the Solidity smart contract code for all contracts involved in the interaction, along with a description of the scenario, the expected outcomes, and testing results.
+Assessment Criteria:
+
+Correct implementation of contract interactions, including function calls and data exchange.
+Proper handling of input parameters and return values in contract interactions.
+Successful deployment and testing of the contracts.
+Clarity of code documentation and explanations.

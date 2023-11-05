@@ -1,0 +1,48 @@
+Design Pattern Implementation
+
+Objective: The objective of this assignment is to encourage students to apply secure design patterns in smart contract development. Design patterns are essential for enhancing security, reusability, and maintainability of smart contracts. In this assignment, students will be presented with a scenario where a specific design pattern is suitable for improving security. Their task is to implement the relevant design pattern in a smart contract, explain its purpose, and demonstrate how it enhances security.
+
+Instructions:
+
+Introduction to the Assignment:
+
+Begin by explaining the purpose of the assignment, which is to promote the use of secure design patterns in smart contract development.
+Emphasize the significance of design patterns in enhancing security, reusability, and maintainability.
+Scenario and Design Pattern Selection:
+
+Provide students with a scenario that requires the implementation of a specific design pattern to enhance security.
+Specify the design pattern to be used in the given scenario. This pattern should be selected for its ability to improve security.
+Task Description:
+
+Task students with the following objectives:
+Understand the scenario and the security challenges it presents.
+Implement the specified design pattern in a Solidity smart contract.
+Explain the purpose of the chosen design pattern and how it improves security.
+Demonstrate the functionality of the contract with the applied design pattern.
+Design Pattern Explanation:
+
+Instruct students to provide a clear and concise explanation of the chosen design pattern. They should describe the purpose of the pattern and why it is suitable for addressing the security challenges in the given scenario.
+Code Implementation:
+
+Ask students to implement the design pattern in a Solidity smart contract. They should use proper coding practices and adhere to the principles of the design pattern.
+Security Enhancement:
+
+Require students to explain how the implemented design pattern enhances security in the context of the scenario provided. They should highlight specific security improvements.
+Demonstration:
+
+Request students to demonstrate the functionality of the smart contract with the applied design pattern. They can use test cases or scenarios to showcase how the pattern improves security.
+Testing and Validation:
+
+Encourage students to thoroughly test the contract to ensure that the design pattern effectively addresses the security challenges.
+Documentation:
+
+Highlight the importance of clear documentation. Students should document the design pattern, its purpose, the implemented code, and any testing conducted.
+Submission:
+
+Request students to submit the Solidity smart contract code, explanations, documentation, and any evidence of testing.
+Assessment Criteria:
+
+Correct implementation of the specified design pattern in the contract.
+Clear and concise explanation of the design pattern's purpose and its security enhancements.
+Effective demonstration of how the design pattern improves security.
+Successful testing and validation of the contract, highlighting security improvements.

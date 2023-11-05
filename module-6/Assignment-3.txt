@@ -1,0 +1,46 @@
+DApp Front-End Development
+
+Objective: The objective of this assignment is to introduce students to front-end development for decentralized applications (DApps) using web3.js, HTML, and CSS. By completing this assignment, students will gain hands-on experience in building a user-friendly interface for interacting with a smart contract deployed on the blockchain.
+
+Instructions:
+
+Introduction to the Assignment:
+
+Begin by explaining the purpose of the assignment, which is to enable students to create a front-end interface for interacting with a smart contract.
+Emphasize the importance of user-friendly interfaces in DApps and how they enhance the user experience.
+Smart Contract Interaction:
+
+Provide students with a sample smart contract that includes functions they need to interact with (e.g., reading data or sending transactions).
+Ensure that the contract's functions are well-documented so students understand their purpose and inputs.
+Front-End Development:
+
+Task students with the following objectives:
+Create a front-end interface (HTML/CSS) that allows users to interact with the provided smart contract.
+Implement user-friendly forms or buttons to call contract functions and display relevant data.
+Use web3.js to establish a connection to the Ethereum blockchain and handle contract interactions.
+Include proper error handling to provide feedback to users in case of transaction failures or other issues.
+Integration with Smart Contract:
+
+Instruct students on how to use web3.js to integrate their front-end interface with the smart contract.
+Provide guidance on how to make function calls, send transactions, and retrieve data from the contract within the front-end.
+User-Friendly Feedback:
+
+Emphasize the importance of user-friendly feedback and error messages in the interface.
+Encourage students to implement clear and informative messages for users, especially in case of transaction failures or errors.
+Submission Requirements:
+
+Ask students to submit the following:
+The complete front-end code (HTML/CSS) for their DApp interface.
+Documentation or comments explaining the purpose and functionality of the interface components.
+Screenshots or video demonstrations showcasing the DApp's functionality and interaction with the smart contract.
+Assessment:
+
+Evaluate students' submissions based on the following criteria:
+Usability and user-friendliness of the front-end interface.
+Correct integration of web3.js to interact with the smart contract.
+Proper error handling and feedback to users.
+Successful demonstration of the DApp's functionality and interaction with the contract.
+Feedback and Assistance:
+
+Provide feedback on students' submissions, highlighting any areas that may need improvement.
+Offer assistance and guidance to students who encounter difficulties during front-end development or integration.

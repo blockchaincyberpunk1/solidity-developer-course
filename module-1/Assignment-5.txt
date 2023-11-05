@@ -1,0 +1,44 @@
+Ethereum Etherscan Transaction Analysis
+
+Objective: The objective of this assignment is to enhance students' ability to explore Ethereum transactions and smart contracts using Etherscan, a blockchain explorer.
+
+Instructions:
+
+Introduction to the Assignment:
+
+Explain the purpose of the assignment, which is to familiarize students with Ethereum transaction analysis using Etherscan.
+Emphasize the importance of understanding transaction details for Solidity developers.
+Transaction Search:
+
+Instruct students to visit the Etherscan website (etherscan.io) or any similar Ethereum blockchain explorer.
+Task them with searching for a recent Ethereum transaction by transaction hash, sender/receiver address, or other criteria of their choice.
+Transaction Analysis:
+
+Guide students in analyzing the transaction details. They should focus on the following aspects:
+Sender and receiver addresses.
+Transaction status (success/failure).
+Gas usage and gas fees.
+Contract interactions (if the transaction involves a smart contract).
+Input and output data, if available.
+Transaction Insights:
+
+Ask students to provide insights and conclusions based on their analysis. They should consider questions such as:
+What was the purpose of this transaction?
+Was it a simple Ether transfer or an interaction with a smart contract?
+Did the transaction succeed or fail, and why?
+How much gas was used, and was it reasonable for the transaction's complexity?
+Report Submission:
+
+Request students to write a brief report summarizing their findings from the transaction analysis.
+The report should include transaction details, insights gained, and any interesting observations.
+Peer Review:
+
+Optionally, you can organize a peer review session where students can exchange and review each other's reports to gain different perspectives.
+Discussion and Reflection:
+
+Hold a class discussion or reflection session where students can share their findings, discuss interesting transactions they analyzed, and explore any challenges they encountered during the analysis.
+Assessment Criteria:
+
+Accurate transaction analysis, including sender/receiver addresses, transaction status, gas usage, and contract interactions (if applicable).
+Well-structured and insightful report summarizing the transaction analysis.
+Participation in class discussions and sharing of experiences.

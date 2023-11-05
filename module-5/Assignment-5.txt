@@ -1,0 +1,50 @@
+Secure Function Development
+
+Objective: The objective of this assignment is to challenge students to develop secure functions that handle sensitive operations within a smart contract. Secure function development is crucial for ensuring the safety and integrity of smart contracts. In this assignment, students will be provided with a contract that requires secure functions for critical operations. Their task is to design and implement these secure functions, ensuring they include adequate input validation, access control, and fail-safe mechanisms. Students will then demonstrate the secure functions in action to showcase their robustness and adherence to security principles.
+
+Instructions:
+
+Introduction to the Assignment:
+
+Begin by explaining the purpose of the assignment, which is to promote the development of secure functions within smart contracts.
+Emphasize the importance of secure function development in handling sensitive operations and mitigating security risks.
+Scenario and Contract Description:
+
+Provide students with a scenario that requires the implementation of secure functions within a smart contract.
+Describe the critical operations that the contract needs to perform securely.
+Task Description:
+
+Task students with the following objectives:
+Understand the scenario and the importance of securing the specified operations.
+Design and implement secure functions within the contract to handle these critical operations.
+Ensure that the secure functions include adequate input validation, access control, and fail-safe mechanisms.
+Demonstrate the secure functions in action to showcase their robustness and adherence to security principles.
+Secure Function Design:
+
+Instruct students to design secure functions that address the critical operations specified in the scenario.
+Emphasize the need for thorough input validation to prevent invalid or malicious inputs.
+Explain the importance of access control mechanisms to restrict function execution to authorized users.
+Encourage students to implement fail-safe mechanisms to handle unexpected situations gracefully.
+Code Implementation:
+
+Ask students to implement the designed secure functions within the Solidity smart contract. They should follow best coding practices and adhere to security principles.
+Testing and Validation:
+
+Encourage students to thoroughly test the contract, specifically focusing on the secure functions.
+Instruct them to include test cases that cover different scenarios and potential edge cases.
+Demonstration:
+
+Request students to demonstrate the secure functions in action. They can use test cases or scenarios to showcase the robustness of the functions and their ability to handle sensitive operations securely.
+Documentation:
+
+Highlight the importance of clear documentation. Students should document the secure functions, including input validation, access control, and fail-safe mechanisms.
+Submission:
+
+Request students to submit the Solidity smart contract code, explanations of the secure functions, documentation, and any evidence of testing and validation.
+Assessment Criteria:
+
+Correct implementation of secure functions within the contract.
+Thorough input validation to prevent invalid or malicious inputs.
+Effective access control mechanisms to restrict function execution.
+Robust fail-safe mechanisms to handle unexpected situations.
+Successful testing and validation of the contract's secure functions.

@@ -1,0 +1,50 @@
+Event-Driven Functions
+
+Objective: The objective of this assignment is to reinforce students' understanding of events in Solidity by building functions that are driven by emitted events. Students will work on a scenario where a contract needs to respond to specific events. They will write functions that execute actions in response to these events, emit the triggering events, and demonstrate the execution of event-driven functions.
+
+Instructions:
+
+Introduction to the Assignment:
+
+Begin by explaining the concept of event-driven programming in the context of Solidity contracts.
+Emphasize that events can be used to notify and trigger functions that respond to specific contract events.
+Contract Scenario:
+
+Provide students with a scenario where a contract needs to respond to specific events. For example, you can simulate a contract that manages a supply chain, and events represent different supply chain milestones.
+Specify the events that need to be emitted and the actions or state changes that should be triggered in response to these events.
+Contract Setup:
+
+Provide students with a Solidity contract template that includes state variables and functions for handling the specified events.
+Ensure that the contract is well-documented, including clear explanations of the events and their expected outcomes.
+Event Implementation:
+
+Task students with implementing events within the contract code. Each event should correspond to a specific contract event or milestone.
+Instruct them to use the emit keyword to trigger these events whenever the corresponding actions or state changes occur.
+Event-Driven Functions:
+
+Ask students to write Solidity functions that respond to the emitted events. These functions should execute actions or state changes based on the event data.
+Ensure that students properly define and call these functions to simulate the responses to the events.
+Triggering Events:
+
+Instruct students to write functions that simulate the events by executing actions or state changes.
+Ensure that these functions emit the corresponding events with relevant data.
+Demonstration:
+
+Encourage students to demonstrate the functioning of their contract by triggering events and observing the execution of event-driven functions.
+Request them to provide clear examples or scenarios where the events are triggered, and the contract responds accordingly.
+Code Documentation:
+
+Emphasize the importance of code documentation for both events and event-driven functions. Require students to add comments explaining the purpose of each event and the response functions.
+Testing and Validation:
+
+Encourage students to test their contract by deploying it on a testnet or using a local development blockchain.
+Request them to document their testing process and provide evidence of successful event triggering and function responses.
+Submission:
+
+Request students to submit the Solidity smart contract code, the code for triggering events, and a summary of their testing and validation process.
+Assessment Criteria:
+
+Correct implementation of events and event-driven functions within the contract.
+Proper triggering of events and execution of event-driven functions.
+Clear demonstration of event-driven functionality with examples or scenarios.
+Clarity of code documentation and explanations.

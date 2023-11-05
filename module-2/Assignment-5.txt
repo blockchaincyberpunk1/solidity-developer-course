@@ -1,0 +1,38 @@
+Solidity Contract Interaction
+
+Objective: The objective of this assignment is to familiarize students with the concept of contract interaction in Solidity, including how one contract can interact with another by calling functions or sending Ether.
+
+Instructions:
+
+Introduction to the Assignment:
+
+Begin by explaining the purpose of the assignment, which is to teach students about contract interaction in Solidity.
+Emphasize the importance of understanding how contracts can communicate and exchange data.
+Contract Templates:
+
+Provide students with two Solidity contract templates: ContractA and ContractB.
+Specify the functions and state variables that should be included in each contract. For example, ContractA may have a function that interacts with ContractB.
+Scenario Setup:
+
+Instruct students to create a scenario where ContractA interacts with ContractB. The scenario can involve calling functions, sending Ether, or updating state variables.
+Encourage creativity in designing the interaction scenario.
+Writing the Contract Code:
+
+Ask students to write the Solidity code for both ContractA and ContractB to demonstrate the interaction defined in the scenario.
+Ensure that they implement the required functions and logic for communication between the contracts.
+Deployment and Testing:
+
+Encourage students to deploy both ContractA and ContractB on a testnet (e.g., Ropsten) or a local development blockchain.
+Instruct them to test the interaction by executing the functions or transactions specified in the scenario.
+Code Documentation:
+
+Emphasize the importance of code documentation. Require students to add comments explaining the purpose and functionality of each function and contract.
+Submission:
+
+Request students to submit the Solidity smart contract code for both ContractA and ContractB, along with a description of the interaction scenario they implemented and the testing results.
+Assessment Criteria:
+
+Correct implementation of ContractA and ContractB according to the interaction scenario.
+Proper communication and data exchange between the contracts.
+Clarity of code documentation.
+Successful deployment and testing of the contracts.

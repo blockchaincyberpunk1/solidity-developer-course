@@ -1,0 +1,43 @@
+Ethereum Smart Contract Deployment and Interaction
+
+Objective: The objective of this assignment is to familiarize students with the process of deploying Ethereum smart contracts to a testnet and interacting with them using transactions.
+
+Instructions:
+
+Introduction to the Assignment:
+
+Explain the purpose of the assignment, which is to introduce students to Ethereum smart contract deployment and interaction.
+Emphasize that this assignment will use a testnet (e.g., Ropsten or Rinkeby) to avoid real Ether usage.
+Smart Contract Code Template:
+
+Provide students with a simple Ethereum smart contract code template. This could be a basic "Hello, Ethereum" contract or any other straightforward example.
+Ensure that the contract includes functions that can be called by external accounts.
+Deployment Process:
+
+Guide students through the deployment process using a development environment like Remix, Truffle, or Hardhat.
+Explain how to compile the contract code, connect to a testnet, and deploy the contract.
+Provide instructions on specifying constructor parameters (if any) during deployment.
+Contract Interaction Task:
+
+Assign a specific interaction task to students. For example, they might be asked to call a function on the deployed contract that returns a value or updates the contract's state.
+Specify the input parameters and expected output for the interaction task.
+Transaction Cost Analysis:
+
+Instruct students to observe and analyze the transaction cost associated with their contract interaction. They should consider gas costs, transaction fees, and the Ethereum gas price.
+Evaluation:
+
+Assess students' ability to:
+Deploy the provided smart contract to a testnet.
+Successfully interact with the deployed contract by following the specified task.
+Analyze and understand the transaction cost details.
+Submission:
+
+Ask students to submit evidence of their completed contract deployment and interaction, including transaction IDs or screenshots.
+Discussion and Reflection:
+
+Organize a class discussion or reflection session where students can share their experiences, discuss transaction costs, and highlight any challenges they encountered during deployment and interaction.
+Assessment Criteria:
+
+Accurate deployment of the smart contract to a testnet.
+Successful completion of the assigned contract interaction task.
+Understanding of transaction costs and gas fees in the Ethereum network.

@@ -1,0 +1,50 @@
+Community Contribution
+
+Objective: The objective of this assignment is to challenge students to actively contribute to open-source Ethereum projects or initiatives. By participating in open-source development, students gain hands-on experience, strengthen their skills, and contribute to the growth of the Ethereum community.
+
+Instructions:
+
+Introduction to the Assignment:
+
+Explain the significance of contributing to open-source projects in the Ethereum ecosystem.
+Emphasize that open-source contributions allow students to collaborate with experienced developers, improve their skills, and make a meaningful impact.
+Providing a List of Open-Source Ethereum Projects:
+
+Provide students with a list of open-source Ethereum projects, initiatives, or repositories that are actively seeking contributions.
+Projects can include Ethereum Foundation projects, popular Solidity libraries on GitHub, Ethereum clients (e.g., Geth, Parity), or decentralized applications (DApps) with open repositories.
+Choosing a Project:
+
+Instruct students to choose one project from the provided list that aligns with their interests and skills.
+Encourage them to explore the project's documentation, issues, and contribution guidelines to identify areas where they can make meaningful contributions.
+Contributions to the Chosen Project:
+
+Task students with actively contributing to the selected project. Contributions can include but are not limited to:
+Code contributions or improvements.
+Documentation updates or enhancements.
+Writing and running tests.
+Bug fixes or issue triaging.
+Enhancing user interfaces (UI) for DApps.
+Students should aim to make substantial and well-documented contributions.
+Documentation of Contributions:
+
+Require students to document their contributions thoroughly. This documentation should include:
+Detailed descriptions of the contributions made.
+Links to pull requests (PRs) or commits in the project's repository.
+Any discussions or feedback received from project maintainers or collaborators.
+Challenges faced during the contribution process and how they were overcome.
+Submission Requirements:
+
+Students should submit the following:
+A document or report summarizing their contributions to the chosen project.
+Links to their pull requests or commits in the project's repository.
+A reflection on their experience, lessons learned, and the impact of their contributions on the Ethereum community.
+Assessment:
+
+Evaluate students' contributions based on the following criteria:
+The quality and impact of their contributions.
+Their ability to follow project guidelines and collaborate effectively.
+The documentation of their contributions and their reflection on the experience.
+Feedback and Recognition:
+
+Provide feedback on students' contributions, highlighting the strengths of their work.
+Recognize and celebrate students who made significant contributions to open-source Ethereum projects.
